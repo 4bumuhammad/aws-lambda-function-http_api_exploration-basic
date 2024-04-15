@@ -97,6 +97,10 @@ Create custom scripts.
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_011_aws_lambda_functions.png" alt="ss_011_aws_lambda_functions" style="display: block; margin: 0 auto;">
+</div>
+
 &nbsp;
 
 ---
