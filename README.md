@@ -3,10 +3,16 @@
 
 &nbsp;
 
-Start by opening an AWS lambda service
-
+Start by opening an AWS lambda service.
 <div align="center">
     <img src="./gambar-petunjuk/ss_001_aws_lambda_function.png" alt="ss_001_aws_lambda_function" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+Fill in the basic information for the service function that will be used.
+<div align="center">
+    <img src="./gambar-petunjuk/ss_002_aws_lambda_create_from_scratch.png" alt="ss_002_aws_lambda_create_from_scratch" style="display: block; margin: 0 auto;">
 </div> 
 
 &nbsp;
