@@ -82,6 +82,12 @@ Create custom scripts.
 
 &nbsp;
 
+Result :
+<div align="center">
+    <img src="./gambar-petunjuk/ss_010_aws_lambda_function_http_api_exploration_response.png" alt="ss_010_aws_lambda_function_http_api_exploration_response" style="display: block; margin: 0 auto;">
+</div> 
+
+
 &nbsp;
 
 &nbsp;
