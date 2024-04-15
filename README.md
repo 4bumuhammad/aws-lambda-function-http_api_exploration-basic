@@ -38,6 +38,23 @@ Define and script triggers in the service layer function.
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+]
 ---
 
 &nbsp;
@@ -45,14 +62,6 @@ Define and script triggers in the service layer function.
 <div align="center">
     <img src="./gambar-petunjuk/well_done.png" alt="well_done" style="display: block; margin: 0 auto;">
 </div> 
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
