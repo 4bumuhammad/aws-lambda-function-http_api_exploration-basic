@@ -17,6 +17,11 @@ Fill in the basic information for the service function that will be used.
 
 &nbsp;
 
+Define and script triggers in the service layer function.
+<div align="center">
+    <img src="./gambar-petunjuk/ss_003_aws_lambda_function_http_api_exploration.png" alt="ss_003_aws_lambda_function_http_api_exploration" style="display: block; margin: 0 auto;">
+</div> 
+
 &nbsp;
 
 &nbsp;
