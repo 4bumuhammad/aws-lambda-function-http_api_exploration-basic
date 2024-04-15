@@ -54,7 +54,6 @@ Define and script triggers in the service layer function.
 
 &nbsp;
 
-]
 ---
 
 &nbsp;
