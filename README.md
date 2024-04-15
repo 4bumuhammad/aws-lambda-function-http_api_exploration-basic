@@ -43,7 +43,16 @@ Tries to run the default script by triggering the predefined trigger.
 
 &nbsp;
 
+Make changes to the script to see the events obtained when activating the trigger.
+<div align="center">
+    <img src="./gambar-petunjuk/ss_007_aws_lambda_code.png" alt="ss_007_aws_lambda_code" style="display: block; margin: 0 auto;">
+</div> 
+
 &nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_008_aws_lambda_run_dumps_event.png" alt="ss_008_aws_lambda_run_dumps_event" style="display: block; margin: 0 auto;">
+</div> 
 
 &nbsp;
 
