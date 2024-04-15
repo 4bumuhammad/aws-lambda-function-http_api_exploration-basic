@@ -56,6 +56,30 @@ Make changes to the script to see the events obtained when activating the trigge
 
 &nbsp;
 
+Create custom scripts.
+<div align="center">
+    <img src="./gambar-petunjuk/ss_009_aws_lambda_custom_code.png" alt="ss_009_aws_lambda_custom_code" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<pre>
+    import json
+
+    def lambda_handler(event, context):
+        # TODO implement
+        result = {}
+        if event['requestContext']['identity']['sourceIp'] == "45.251.5.94":
+            result['recognition_status'] = "Ini adalah device Dhony Abu Muhammad."
+        else:
+            result['recognition_status'] = "Device tidak dikenali sebagai perangkat terdaftar."
+        result['user_agent'] = event['requestContext']['identity']['userAgent']     
+        return {
+            'statusCode': 200,
+            'body': json.dumps(result)
+        }
+</pre>
+
 &nbsp;
 
 &nbsp;
