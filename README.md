@@ -24,6 +24,10 @@ Define and script triggers in the service layer function.
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_004_aws_lambda_function_api_add_trigger.png" alt="ss_004_aws_lambda_function_api_add_trigger" style="display: block; margin: 0 auto;">
+</div> 
+
 &nbsp;
 
 ---
