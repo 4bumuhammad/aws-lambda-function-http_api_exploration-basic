@@ -36,6 +36,11 @@ Define and script triggers in the service layer function.
 
 &nbsp;
 
+Tries to run the default script by triggering the predefined trigger.
+<div align="center">
+    <img src="./gambar-petunjuk/ss_006_aws_lambda_run.png" alt="ss_006_aws_lambda_run" style="display: block; margin: 0 auto;">
+</div> 
+
 &nbsp;
 
 &nbsp;
