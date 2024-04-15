@@ -30,6 +30,14 @@ Define and script triggers in the service layer function.
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_005_aws_lambda_function_http_api_exploration_gateway.png" alt="ss_005_aws_lambda_function_http_api_exploration_gateway" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+&nbsp;
+
 ---
 
 &nbsp;
